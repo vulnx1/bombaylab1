@@ -46,3 +46,8 @@ dist/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Backend (server)
+server/node_modules/
+server/storage/pdfs/
+server/.env
